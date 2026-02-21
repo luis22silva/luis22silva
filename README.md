@@ -1,16 +1,28 @@
-## Hi there 👋
+### Olá! 👋 Sou o Luís
 
-<!--
-**luis22silva/luis22silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **CTeSP em Desenvolvimento Web e Multimédia no IPCA**, apaixonado por criar pontes entre o design visual e a engenharia de software. O meu objetivo é desenvolver experiências digitais completas, desde a interface de utilizador até à arquitetura de servidores.
 
-Here are some ideas to get you started:
+- 🎓 A frequentar o CTeSP de Desenvolvimento Web e Multimédia no IPCA.
+- 🌱 Atualmente focado em ecossistemas Web: **JavaScript, TypeScript, Angular e NodeJS**.
+- 💡 Interesses principais: **Front-end Development, UI/UX Design e APIs RESTful**.
+- ⚙️ Adepto de metodologias **Ágeis (Scrum)** e boas práticas de controlo de versões com **Git**.
+- 📫 Onde me podes encontrar: www.linkedin.com/in/luís-silva-a5374038b
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologias e Ferramentas
+
+**Desenvolvimento Web & Software**
+* HTML5, CSS3, JavaScript, TypeScript
+* Angular, Bootstrap
+* C, C#, NodeJS, ExpressJS
+* SQL, PLSQL, REST APIs
+
+**Design & Multimédia**
+* UI/UX Design (Wireframing & Prototipagem)
+* Adobe Photoshop, Premiere Pro, After Effects
+
+**Infraestrutura & Metodologias**
+* Git, Docker
+* Linux, Windows Server, Redes (TCP/IP)
+* Scrum, UML
